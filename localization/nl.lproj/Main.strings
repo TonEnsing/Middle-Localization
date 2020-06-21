@@ -6,13 +6,13 @@
 "1Xt-HY-uBw.title" = "Middle";
 
 /* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
-"1b7-l0-nxx.title" = "Vinden";
+"1b7-l0-nxx.title" = "Vind";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "1tx-W0-xDw"; */
 "1tx-W0-xDw.title" = "Lager";
 
 /* Class = "NSMenuItem"; title = "Raise"; ObjectID = "2h7-ER-AoG"; */
-"2h7-ER-AoG.title" = "Verhogen";
+"2h7-ER-AoG.title" = "Hoger";
 
 /* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC"; */
 "2oI-Rn-ZJC.title" = "Transformaties";
@@ -24,28 +24,28 @@
 "3Om-Ey-2VK.title" = "Gebruik Standaard";
 
 /* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
-"3rS-ZA-NoH.title" = "Toespraak";
+"3rS-ZA-NoH.title" = "Spraak";
 
 /* Class = "NSMenuItem"; title = "Tighten"; ObjectID = "46P-cB-AYj"; */
 "46P-cB-AYj.title" = "Aanhalen";
 
 /* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
-"4EN-yA-p0u.title" = "Vinden";
+"4EN-yA-p0u.title" = "Vind";
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa"; */
-"4J7-dP-txa.title" = "Ga het volledige scherm in";
+"4J7-dP-txa.title" = "Open in volledig scherm";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
 "4sb-4s-VLi.title" = "Stop met Middle";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
-"575-o0-Etz.title" = "Machtigen…";
+"575-o0-Etz.title" = "Geef toestemming…";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
 "5QF-Oa-p0T.title" = "Bewerken";
 
 /* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "5Vv-lz-BsD"; */
-"5Vv-lz-BsD.title" = "Kopieerstijl";
+"5Vv-lz-BsD.title" = "Kopieer stijl";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
 "5Y9-2l-gqF.title" = "Over";
@@ -66,10 +66,10 @@
 "6rO-9w-PdI.title" = "Open Systeemvoorkeuren";
 
 /* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v"; */
-"78Y-hA-62v.title" = "Correcte spelling automatisch";
+"78Y-hA-62v.title" = "Corrigeer spelling automatisch";
 
 /* Class = "NSMenu"; title = "Writing Direction"; ObjectID = "8mr-sm-Yjd"; */
-"8mr-sm-Yjd.title" = "Schrijvende Richting";
+"8mr-sm-Yjd.title" = "Schrijfrichting";
 
 /* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx"; */
 "9ic-FL-obx.title" = "Vervangingen";
@@ -84,13 +84,13 @@
 "BOF-NM-1cW.title" = "Voorkeuren…";
 
 /* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
-"BbU-e2-Ypo.title" = "Lancering bij het inloggen";
+"BbU-e2-Ypo.title" = "Open bij inloggen";
 
 /* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "BgM-ve-c93"; */
 "BgM-ve-c93.title" = "\tVan links naar rechts";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A"; */
-"Bw7-FT-i3A.title" = "Red als…";
+"Bw7-FT-i3A.title" = "Bewaar als…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
 "Ccz-CJ-ZRm.title" = "Tik met drie vingers";
@@ -105,7 +105,7 @@
 "Dv1-io-Yv7.title" = "Spelling en grammatica";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Niet bevoegd om uw computer te besturen";
+"ExA-de-taD.title" = "Niet bevoegd om uw computer te beheren";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Hulp";
@@ -135,10 +135,10 @@
 "Gi5-1S-RQB.title" = "Lettertype";
 
 /* Class = "NSMenuItem"; title = "Writing Direction"; ObjectID = "H1b-Si-o9J"; */
-"H1b-Si-o9J.title" = "Schrijvende Richting";
+"H1b-Si-o9J.title" = "Schrijfrichting";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
-"H8h-7b-M4v.title" = "Bekijk";
+"H8h-7b-M4v.title" = "Toon";
 
 /* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA"; */
 "HFQ-gK-NFA.title" = "Tekstvervanging";
@@ -150,7 +150,7 @@
 "Hc4-Pm-7tu.title" = "Negeer frontmost.app";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
-"HyV-fh-RgO.title" = "Bekijk";
+"HyV-fh-RgO.title" = "Toon";
 
 /* Class = "NSMenuItem"; title = "Subscript"; ObjectID = "I0S-gh-46l"; */
 "I0S-gh-46l.title" = "Abonnement";
@@ -162,13 +162,13 @@
 "IQv-IB-iLA.title" = "Middle Voorkeuren";
 
 /* Class = "NSMenuItem"; title = "Justify"; ObjectID = "J5U-5w-g23"; */
-"J5U-5w-g23.title" = "Rechtvaardigen";
+"J5U-5w-g23.title" = "Uitlijnen";
 
 /* Class = "NSMenuItem"; title = "Use None"; ObjectID = "J7y-lM-qPV"; */
 "J7y-lM-qPV.title" = "Gebruik Geen";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; */
-"KaW-ft-85H.title" = "Terug naar opgeslagen";
+"KaW-ft-85H.title" = "Terug naar Bewaard document";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
 "Kd2-mp-pUS.title" = "Toon alle";
@@ -183,7 +183,7 @@
 "LQa-8U-aNp.title" = "Middle heeft uw toestemming nodig om gebeurtenissen van uw aanraakapparaten te lezen.";
 
 /* Class = "NSMenuItem"; title = "Paste Ruler"; ObjectID = "LVM-kO-fVI"; */
-"LVM-kO-fVI.title" = "Heerser plakken";
+"LVM-kO-fVI.title" = "Plak lineaal";
 
 /* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "Lbh-J2-qVU"; */
 "Lbh-J2-qVU.title" = "\tVan links naar rechts";
@@ -192,13 +192,13 @@
 "LxB-Qw-Mem.title" = "Stop met Middle";
 
 /* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
-"MWV-Ks-lbA.title" = "Aankoop";
+"MWV-Ks-lbA.title" = "Koop";
 
 /* Class = "NSMenuItem"; title = "Copy Ruler"; ObjectID = "MkV-Pr-PK5"; */
-"MkV-Pr-PK5.title" = "Kopiëren Heerser";
+"MkV-Pr-PK5.title" = "Kopiër lineaal";
 
 /* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
-"Mx0-0X-Uk5.title" = "Één Vingerkracht Aanraking van de Vingerkracht";
+"Mx0-0X-Uk5.title" = "Één Vinger Aanraking van de Vingerkracht";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
 "NJ3-Fi-h4c.title" = "Over";
@@ -216,13 +216,13 @@
 "OaQ-X3-Vso.title" = "Basislijn";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "OhY-VJ-Tcc"; */
-"OhY-VJ-Tcc.title" = "Raam";
+"OhY-VJ-Tcc.title" = "Venster";
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Verberg Middle";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
-"OwM-mh-QMV.title" = "Vorige vinden";
+"OwM-mh-QMV.title" = "Vind vorige";
 
 /* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
 "Oyz-dy-DGm.title" = "Stop met praten";
@@ -252,16 +252,16 @@
 "S0p-oC-mLd.title" = "Ga naar Selectie";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
-"Td7-aD-5lo.title" = "Raam";
+"Td7-aD-5lo.title" = "Venster";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Wanneer verborgen, start u de Finder opnieuw op om het menu te openen.";
+"Tfy-3A-o4I.title" = "Als Middle verborgen is, start u de Finder opnieuw op om het menu te openen.";
 
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG"; */
 "UEZ-Bs-lqG.title" = "Hoofdletters";
 
 /* Class = "NSMenuItem"; title = "Center"; ObjectID = "VIY-Ag-zcb"; */
-"VIY-Ag-zcb.title" = "Centrum";
+"VIY-Ag-zcb.title" = "Centreer";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
 "Vdr-fp-XzO.title" = "Verberg andere";
@@ -279,19 +279,19 @@
 "Was-JA-tGl.title" = "Nieuw";
 
 /* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WeT-3V-zwk"; */
-"WeT-3V-zwk.title" = "De stijl van plakken en matchen";
+"WeT-3V-zwk.title" = "Plak met behoud van stijl";
 
 /* Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W"; */
 "Xz5-n4-O0W.title" = "Zoek…";
 
 /* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz"; */
-"YEy-JH-Tfz.title" = "Vinden en vervangen…";
+"YEy-JH-Tfz.title" = "Zoek en vervang…";
 
 /* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "YGs-j5-SAR"; */
 "YGs-j5-SAR.title" = "\tStandaard";
 
 /* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ"; */
-"Ynk-f8-cLZ.title" = "Spreken";
+"Ynk-f8-cLZ.title" = "Begin te praten";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
 "YvJ-SA-Bje.title" = "Verberg het pictogram van de menubalk";
@@ -312,7 +312,7 @@
 "aTl-1u-JFS.title" = "Afdrukken…";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
-"aUF-d1-5bR.title" = "Raam";
+"aUF-d1-5bR.title" = "Venster";
 
 /* Class = "NSMenu"; title = "Font"; ObjectID = "aXa-aM-Jaq"; */
 "aXa-aM-Jaq.title" = "Lettertype";
@@ -324,10 +324,10 @@
 "bgn-CT-cEk.title" = "Toon kleuren";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
-"bib-Uj-vzu.title" = "Dossier";
+"bib-Uj-vzu.title" = "Bestand";
 
 /* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt"; */
-"buJ-ug-pKt.title" = "Gebruik selectie voor zoeken";
+"buJ-ug-pKt.title" = "Gebruik selectie om te zoeken";
 
 /* Class = "NSMenu"; title = "Transformations"; ObjectID = "c8a-y6-VQd"; */
 "c8a-y6-VQd.title" = "Transformaties";
@@ -342,13 +342,13 @@
 "cwL-P1-jid.title" = "Slimme links";
 
 /* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "d9M-CD-aMd"; */
-"d9M-CD-aMd.title" = "Maak kleine letters";
+"d9M-CD-aMd.title" = "Zet om naar kleine letters";
 
 /* Class = "NSMenu"; title = "Text"; ObjectID = "d9c-me-L2H"; */
 "d9c-me-L2H.title" = "Tekst";
 
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
-"dMs-cI-mzQ.title" = "Dossier";
+"dMs-cI-mzQ.title" = "Bestand";
 
 /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; */
 "dRJ-4n-Yzg.title" = "Ongedaan maken";
@@ -357,19 +357,19 @@
 "eDR-Aa-cTe.title" = "Trackpad: ";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
-"fQ6-M2-dr6.title" = "Stoppen met Middle";
+"fQ6-M2-dr6.title" = "Stop met Middle";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
 "gQZ-HU-YQU.title" = "Kijk of er updates zijn…";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
-"gVA-U4-sdL.title" = "Plakken";
+"gVA-U4-sdL.title" = "Plak";
 
 /* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv"; */
 "hQb-2v-fYv.title" = "Slimme citaten";
 
 /* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7"; */
-"hz2-CU-CR7.title" = "Controleer nu het document";
+"hz2-CU-CR7.title" = "Controleer het document";
 
 /* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
 "hz9-B4-Xy5.title" = "Diensten";
@@ -411,7 +411,7 @@
 "pa3-QI-u2k.title" = "Verwijderen";
 
 /* Class = "NSMenuItem"; title = "Save…"; ObjectID = "pxx-59-PXV"; */
-"pxx-59-PXV.title" = "Bespaar…";
+"pxx-59-PXV.title" = "Bewaar…";
 
 /* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; */
 "q09-fT-Sye.title" = "Volgende vinden";
@@ -423,7 +423,7 @@
 "qIS-W8-SiK.title" = "Pagina instellen…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
-"qWt-7C-fnF.title" = "Vingerkraan met drie vingers";
+"qWt-7C-fnF.title" = "Tap met drie vingers";
 
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN"; */
 "rbD-Rh-wIN.title" = "Controleer de spelling tijdens het typen";
@@ -447,22 +447,22 @@
 "uQy-DD-JDr.title" = "Middle";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
-"uRl-iY-unG.title" = "Snijden";
+"uRl-iY-unG.title" = "Knip";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
 "vCt-Cm-ARK.title" = "Ga naar Systeemvoorkeuren → Beveiliging en privacy → Privacy → Toegankelijkheid → Veiligheid en privacy → Toegankelijkheid";
 
 /* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "vKC-jM-MkH"; */
-"vKC-jM-MkH.title" = "De stijl van plakken";
+"vKC-jM-MkH.title" = "Plak stijl";
 
 /* Class = "NSMenuItem"; title = "Show Ruler"; ObjectID = "vLm-3I-IUL"; */
-"vLm-3I-IUL.title" = "Toon Heerser";
+"vLm-3I-IUL.title" = "Toon Lineaal";
 
 /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; */
-"vNY-rz-j42.title" = "Duidelijk menu";
+"vNY-rz-j42.title" = "Wis Menu";
 
 /* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI"; */
-"vmV-6d-7jI.title" = "Maak Hogerhuis";
+"vmV-6d-7jI.title" = "Maak Kapitalen";
 
 /* Class = "NSMenu"; title = "Ligatures"; ObjectID = "w0m-vy-SC9"; */
 "w0m-vy-SC9.title" = "Ligaturen";
@@ -471,10 +471,10 @@
 "wb2-vD-lq4.title" = "Rechts uitlijnen";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Machtigen Middle";
+"wic-K8-WSX.title" = "Geef Middle toestemming";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = "Hulp";
+"wpr-3q-Mcd.title" = "Help";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
 "x3v-GG-iWU.title" = "Kopiëren";
@@ -483,7 +483,7 @@
 "xQD-1f-W4t.title" = "Gebruik alle";
 
 /* Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0"; */
-"xrE-MZ-jX0.title" = "Toespraak";
+"xrE-MZ-jX0.title" = "Spraak";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
 "yCX-6y-ayG.title" = "Drie Vingers klikken";
@@ -491,13 +491,13 @@
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
 "z6F-FW-3nz.title" = "Toon vervangingen";
 
-"Conflict with macOS three finger drag" = "Conflict met macOS slepen met drie vingers";
+"Conflict with macOS three finger drag" = "Conflict met slepen met drie vingers van macOS";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "De drie vingerbewegingen kunnen voorkomen dat de macOS drie vingersleepfunctie goed werkt. U kunt een ander gebaar selecteren of drie vingerslepen in macOS-systeemvoorkeuren uitschakelen.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "De drie vingerbewegingen kunnen er voor zorgen dat het slepen met drie vingers in macOS niet goed werkt. U kunt een ander gebaar selecteren of drievingerslepen in macOS-systeemvoorkeuren uitschakelen.";
 
-"Three finger tap with macOS three finger drag" = "Drie vingerkraan met macOS drie vingerkraan";
+"Three finger tap with macOS three finger drag" = "Drie vinger tik met macOS drie vinger slepen";
 
-"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wanneer drie vingers worden versleept en drie vingers worden getikt, voert macOS een klik uit die Midden niet voorkomt.";
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wanneer drie vingers worden versleept en drie vingers worden getikt, voert macOS een klik uit die Middle niet kan voorkomen.";
 
 "OK" = "OK";
 
@@ -505,10 +505,10 @@
 "Kew-ib-Ihk.title" = "Laat los wanneer het trackpad wordt verwijderd";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "Dit is handig bij het gebruik van het trackpad middenklik om te pannen in 3D-modelleringstoepassingen. Klik met drie vingers, pan met één vinger en laat los door aanrakingen te verwijderen.";
+"p39-0h-R0h.title" = "Dit is handig wanneer de trackpad middenklik gebruikt wordt om te pannen in 3D-modelleringstoepassingen. Klik met drie vingers, pan met één vinger en laat dan los.";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Gebruik fn en klik met de linkermuisknop naar de middelste klik";
+"gGO-yQ-xCQ.title" = "Gebruik fn en klik met de linkermuisknop om de middenklik uit te voeren";
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
-"mCY-qk-eUa.title" = "Twee Vingerklikken";
+"mCY-qk-eUa.title" = "Twee Vinger klikken";
